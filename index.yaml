@@ -9,6 +9,6 @@ entries:
     name: test
     type: application
     urls:
-    - https://github.com/yifengcsx/helm-chart-test.git/test-0.1.0.tgz
+    - https://github.com/yifengcsx/helm-chart-test/test-0.1.0.tgz
     version: 0.1.0
 generated: "2022-01-26T15:39:50.162151489+08:00"
